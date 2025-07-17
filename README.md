@@ -35,7 +35,7 @@ A classic falling blocks game built using vanilla JavaScript, HTML, and CSS. Thi
 
 ## 🚀 Demo
 
-[Live Game](https://github.io/RyanLarge13/Tetris-JS.git)
+[Live Game](https://ryanlarge13.github.io/Tetris-JS/)
 
 ---
 
